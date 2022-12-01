@@ -1,0 +1,51 @@
+{
+  "name": "gatsby-datocms-demo",
+  "description": "Armenian Developers Association website",
+  "version": "1.0.0",
+  "author": "Suren Samarchyan",
+  "dependencies": {
+    "@hot-loader/react-dom": "^17.0.1",
+    "babel-plugin-styled-components": "^1.12.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^3.5.1",
+    "gatsby-cli": "^3.1.0",
+    "gatsby-core-utils": "^2.2.0",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "gatsby-plugin-google-analytics": "^3.1.0",
+    "gatsby-plugin-image": "^1.3.1",
+    "gatsby-plugin-manifest": "^3.1.0",
+    "gatsby-plugin-netlify": "^3.2.0",
+    "gatsby-plugin-offline": "^4.2.0",
+    "gatsby-plugin-react-helmet": "^4.2.0",
+    "gatsby-plugin-robots-txt": "^1.7.1",
+    "gatsby-plugin-sharp": "^3.0.1",
+    "gatsby-plugin-sitemap": "^3.2.0",
+    "gatsby-plugin-styled-components": "^4.2.0",
+    "gatsby-source-datocms": "^2.6.13",
+    "gatsby-source-filesystem": "^2.11.1",
+    "gatsby-transformer-remark": "^3.2.0",
+    "gatsby-transformer-sharp": "^3.2.0",
+    "graphql": "^15.5.0",
+    "lodash": "^4.17.20",
+    "react-device-detect": "^1.17.0",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.4.0",
+    "react-image-lightbox": "^5.1.4",
+    "styled-components": "^5.3.5"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0",
+    "react": "^17.0.2"
+  }
+}
